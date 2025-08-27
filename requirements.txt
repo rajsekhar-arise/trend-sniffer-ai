@@ -1,0 +1,1 @@
+fastapi uvicorn requests beautifulsoup4 sqlit-utils
